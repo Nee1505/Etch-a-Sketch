@@ -1,0 +1,13 @@
+#container{
+    display: flex;
+    flex-wrap: wrap;   
+    width: 1600px;
+}
+
+
+button{
+    align-self: center;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 10px;
+}
